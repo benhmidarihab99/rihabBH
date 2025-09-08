@@ -1,7 +1,7 @@
 # Hi 👋, I'm Rihab
 
-** QA Automation Engineer | Playwright | Selenium WebDriver |Robot framework | API & CI/CD **
-Tunisia • Open to collaboration
+** QA Automation Engineer | Playwright | Selenium WebDriver |Robot framework | API & CI/CD ** <br/>
+Tunisia 🇹🇳🌍
 
 ---
 ### 💁‍♀️ About Me
