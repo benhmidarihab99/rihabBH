@@ -56,24 +56,9 @@ Tunisia • Open to collaboration
 
 ## 📨 Contact
 
-* **LinkedIn:** [https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/rihab-ben-hmida)
-* **Email:** [your.email@example.com](mailto:benhmidarihab99@gmail.com)
+* **LinkedIn:** (https://www.linkedin.com/in/rihab-ben-hmida)
+* **Email:** (mailto:benhmidarihab99@gmail.com)
 
 ---
 
-### 🎯 Currently Learning
 
-* SAP Integration Suite (C\_CPI\_15)
-* Advanced API test automation & CI for SAP landscapes
-
-### ☕ Fun fact
-
-I debug better with coffee 😄
-
----
-
-### 📝 How to use this template
-
-1. Click **Edit** on this file in GitHub and customize it.
-2. Replace `USERNAME`, `REPO`, and contact info.
-3. Remove sections you don’t need and adjust the stack.
