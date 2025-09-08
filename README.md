@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rihab
 
-**QA / QC Tester | SAP Integration & EWM (QA) | API & Test Automation**
+** QA Automation Engineer | Playwright | Selenium WebDriver |Robot framework | API & CI/CD **
 Tunisia • Open to collaboration
 
 ---
