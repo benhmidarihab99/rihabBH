@@ -22,31 +22,23 @@ Tunisia 🇹🇳🌍
   <img src="https://playwright.dev/img/playwright-logo.svg" width="48" height="48" title="Playwright"/>
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" title="Postman"/>
   <img src="https://img.icons8.com/color/48/jenkins.png" title="Jenkins"/>
-  <img src="https://img.icons8.com/color/48/000000/gitlab.png" title="GitLab"/>
   <img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub"/>
   <img src="https://img.icons8.com/color/48/selenium-test-automation.png" title="Selenium"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/>
   <img src="https://img.icons8.com/?size=48&id=13679&format=png&color=000000" title="Java"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
-  <img src="https://img.icons8.com/color/48/firebase.png" title="Firebase"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
-
 </p>
 
 ## 🔥 Featured Projects
 
 **[TestAutomationOrangeHrm](https://github.com/benhmidarihab99/TestAutomationOrangeHrm)** – End-to-end automated tests for OrangeHRM using **Java**, **Selenium**, **TestNG**, and a **BDD architecture**.
 
----
+
 
 ## 📊 GitHub Stats
 
-> Replace `USERNAME` with your GitHub username.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME\&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME\&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benhmidarihab99\&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benhmidarihab99\&layout=compact)
 
 ---
 
