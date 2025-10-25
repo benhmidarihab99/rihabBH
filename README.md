@@ -8,7 +8,7 @@ Tunisia 🇹🇳🌍
 
 - 👩‍💻 I’m a **QA Automation Engineer** with 2+ years of experience in testing, automation, and DevOps
 - 🌐 Strong in **Cypress**, **Playwright**, **Postman**, **Cucumber**, and full-stack test automation
-- ⚙️ I automate UI, API, and email/payment flows, integrated with **Jenkins**, **GitHub Actions**, and **GitLab CI**
+- ⚙️ I automate UI, API and integrated with **Jenkins**, **GitHub Actions**
 - 💡 Passionate about clean code, reusable test architecture, and Agile collaboration
 - ☕ Fun fact: I debug better with coffee!
 
@@ -37,7 +37,8 @@ Tunisia 🇹🇳🌍
 
 ## 🔥 Featured Projects
 
-* **Automation** – End‑to‑end tests with Robot Framework and Playwright. → https://github.com/benhmidarihab99/TestAutomationOrangeHrm
+**[TestAutomationOrangeHrm](https://github.com/benhmidarihab99/TestAutomationOrangeHrm)**  
+– End-to-end automated tests for OrangeHRM using **Java**, **Selenium**, **TestNG**, and a **BDD architecture**.
 
 ---
 
