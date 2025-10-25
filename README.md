@@ -37,8 +37,7 @@ Tunisia 🇹🇳🌍
 
 ## 🔥 Featured Projects
 
-**[TestAutomationOrangeHrm](https://github.com/benhmidarihab99/TestAutomationOrangeHrm)**  
-– End-to-end automated tests for OrangeHRM using **Java**, **Selenium**, **TestNG**, and a **BDD architecture**.
+**[TestAutomationOrangeHrm](https://github.com/benhmidarihab99/TestAutomationOrangeHrm)** – End-to-end automated tests for OrangeHRM using **Java**, **Selenium**, **TestNG**, and a **BDD architecture**.
 
 ---
 
