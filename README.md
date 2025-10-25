@@ -37,11 +37,7 @@ Tunisia 🇹🇳🌍
 
 ## 🔥 Featured Projects
 
-* **Automation** – End‑to‑end tests with Robot Framework and Playwright. → [Link](https://github.com/USERNAME/REPO)
-* **COFLINKER API Tests** – API regression using Postman/Newman & Robot Framework. → [Link](https://github.com/USERNAME/REPO)
-* **SAP EWM Test Utilities** – DB validations (MSSQL) & report scripts. → [Link](https://github.com/USERNAME/REPO)
-
-> Go to your GitHub profile → **Customize your pins** to pin these repos.
+* **Automation** – End‑to‑end tests with Robot Framework and Playwright. → https://github.com/benhmidarihab99/TestAutomationOrangeHrm
 
 ---
 
