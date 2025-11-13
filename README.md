@@ -31,9 +31,9 @@ Tunisia 🇹🇳🌍
 
 ## 🔥 Featured Projects
 
+**[SeleniumBasics](https://github.com/benhmidarihab99/SeleniumBasics)** – Core Selenium WebDriver examples with Java for beginners and reusable patterns.  
 **[TestAutomationOrangeHrm](https://github.com/benhmidarihab99/TestAutomationOrangeHrm)** – End-to-end automated tests for OrangeHRM using **Java**, **Selenium**, **TestNG**, and a **BDD architecture**.
-
-
+**[ECommerceWebAutomation](https://github.com/benhmidarihab99/ECommerceWebAutomation)** – Automated test suite for e-commerce app **Swag Labs** (login, product filters, add to/remove from cart and checkout).  
 
 ## 📊 GitHub Stats
 
