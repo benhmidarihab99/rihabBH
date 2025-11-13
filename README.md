@@ -7,8 +7,8 @@ Tunisia 🇹🇳🌍
 ### 💁‍♀️ About Me
 
 - 👩‍💻 I’m a **QA Automation Engineer** with 2+ years of experience in testing, automation, and DevOps
-- 🌐 Strong in **Cypress**, **Playwright**, **Postman**, **Cucumber**, and full-stack test automation
-- ⚙️ I automate UI, API and integrated with **Jenkins**, **GitHub Actions**
+- 🌐 Strong in **Cypress**, **Playwright**, **Selenium**, **Cucumber**, and full-stack test automation
+- ⚙️ I automate End-to-End tests and integrated with **Jenkins**, **GitHub Actions**
 - 💡 Passionate about clean code, reusable test architecture, and Agile collaboration
 - ☕ Fun fact: I debug better with coffee!
 
@@ -33,7 +33,7 @@ Tunisia 🇹🇳🌍
 
 **[SeleniumBasics](https://github.com/benhmidarihab99/SeleniumBasics)** – Core Selenium WebDriver examples with Java for beginners and reusable patterns.  
 **[TestAutomationOrangeHrm](https://github.com/benhmidarihab99/TestAutomationOrangeHrm)** – End-to-end automated tests for OrangeHRM using **Java**, **Selenium**, **TestNG**, and a **BDD architecture**.
-**[ECommerceWebAutomation](https://github.com/benhmidarihab99/ECommerceWebAutomation)** – Automated test suite for e-commerce app **Swag Labs** (login, product filters, add to/remove from cart and checkout).  
+**[ECommerceWebAutomation](https://github.com/benhmidarihab99/ECommerceWebAutomation)** – Automated test suite for e-commerce app **Swag Labs** (login, product filters, add to/remove from cart...).  
 
 ## 📊 GitHub Stats
 
